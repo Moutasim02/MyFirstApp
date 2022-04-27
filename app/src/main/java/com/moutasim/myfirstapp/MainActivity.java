@@ -3,6 +3,7 @@ package com.moutasim.myfirstapp;
 import android.os.Bundle;
 
 import com.google.android.material.snackbar.Snackbar;
+import com.moutasim.myfirstapp.databinding.ActivityMainBinding;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -13,7 +14,6 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
-import com.moutasim.myfirstapp.databinding.ActivityMainBinding;
 
 import android.view.Menu;
 import android.view.MenuItem;
